@@ -77,7 +77,7 @@ button:active {
 
 .clear {
   grid-column: span 3;
-  background: #d9534f;
+  background: skyblue;
 }
 
 .clear:hover {
